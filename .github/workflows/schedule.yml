@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: ${{ https://gist.github.com/wargi/b875557bf5f32a2158184d5dfa8a492e }}
           TIMEZONE: Asia/Seoul
